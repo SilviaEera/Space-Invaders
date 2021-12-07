@@ -6,7 +6,7 @@
 
 3. If you dont have python then simply download python from "https://www.python.org/downloads/".
 
-4. After installing python install the pygame library crom command prompt (cmd) by writing "pip install pygame" or "pip3 install pygame".
+4. After installing python install the pygame library your command prompt (cmd) by writing "pip install pygame" or "pip3 install pygame".
 
 5. Then you can run the main.py file from you command prompt or from your code editor(I've used PyCharm).
 
