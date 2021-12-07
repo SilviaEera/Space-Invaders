@@ -2,7 +2,7 @@
 
 1. Just download or clone the git repository. 
 
-2. To run the Space Invader game you need to have pyhton installed to you system.
+2. To run the Space Invader game you need to have pyhton installed in you system.
 
 3. If you dont have python then simply download python from "https://www.python.org/downloads/".
 
